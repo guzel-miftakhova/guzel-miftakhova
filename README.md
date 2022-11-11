@@ -9,7 +9,7 @@ see how a whole image develops, and also like to do work that will be useful and
 
 | Name        | Description           | 😎 |
 | ------------- |:-------------:| -----:|
-| [educational_projects](https://github.com/guzel-miftakhova/educational_projects) | This repository is intended for projects that I did while studying on the course ["Data Analyst"](https://practicum.yandex.ru/data-analyst/) | ![Изображение](https://s01vlx.storage.yandex.net/rdisk/55c9608015f0a03744508133573ffab528d883342283a2cdbf6efe9127d337e3/6336cf51/aMxkKUXuZqrxxhprtBhKYijEp_PXN8bvNX-qaiDwFzoCFlRX9G0ruGYiwBum5sEHTmltk2gmaMdDctp-MQITVA==?uid=35512604&filename=Ya_logo_ing.jpg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=35512604&fsize=4109&hid=232b7d6522b68bfc17eb8edf78a2cfee&media_type=image&tknv=v2&etag=3ac4b6635bab34c561876a747cfcb30a&rtoken=f8FJuVctPJz6&force_default=yes&ycrid=na-e0ccc87c662240fc61a2ab69325a9cad-downloader24f&ts=5e9e314e5b640&s=0a87c62548a369bf681d7139f556c6d78ada1730ba5d4753bc6fadf8b544d4d7&pb=U2FsdGVkX18T33yCJcQhI6pjSDWP-BgCCzX1ZAJrH5ozAajZvKyAIuLWshKl-b5Ai2SOOcIFbsA_vmi9Cdd96yJgZO2W-f1rltZejzuvmlU) |
+| [educational_projects](https://github.com/guzel-miftakhova/educational_projects) | This repository is intended for projects that I did while studying on the course ["Data Analyst"](https://practicum.yandex.ru/data-analyst/) | [![Yandex-Practicum.jpg](https://i.postimg.cc/J7JqPHzH/Yandex-Practicum.jpg)](https://postimg.cc/mhLCrDMT) |
 ____
 ## Добро пожаловать в мой профиль 🤗
 
